@@ -4,6 +4,7 @@
   "author": "Caleb Bassi",
   "description": "Cerebro plugin to search and open files",
   "homepage": "https://github.com/cjbassi/cerebro-file-search",
+  "repository": "cjbassi/cerebro-file-search",
   "dependencies": {
     "cerebro-tools": "^0.1.8",
     "cerebro-ui": "^0.0.16"
