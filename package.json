@@ -1,6 +1,6 @@
 {
   "name": "cerebro-file-search",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Caleb Bassi",
   "description": "Cerebro plugin to search and open files",
   "homepage": "https://github.com/cjbassi/cerebro-file-search",
