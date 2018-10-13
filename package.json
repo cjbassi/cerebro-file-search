@@ -5,6 +5,7 @@
   "description": "Cerebro plugin to search and open files",
   "homepage": "https://github.com/cjbassi/cerebro-file-search",
   "repository": "cjbassi/cerebro-file-search",
+  "license": "MIT",
   "dependencies": {
     "cerebro-tools": "^0.1.8",
     "cerebro-ui": "^0.0.16"
